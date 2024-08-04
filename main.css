@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #004d40;
+    padding: 16px 0;
+    color: #e0e0e0;
+    text-decoration: underline;
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.post{
+    margin-bottom: 24px;
+}
+
+.container h4{
+    margin: 16px 0;
+}
+
+.col-md-4 p{
+    margin-top: 8px;
+}
+
+.form{
+    display: flex;
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+footer{
+    background-color: #004d40;
+    color: #e0e0e0;
+    margin-top: 24px;
+    padding: 4px 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
